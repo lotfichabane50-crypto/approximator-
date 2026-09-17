@@ -128,12 +128,14 @@ Project/
 ├── Approximator.cpp
 ├── boite_approximator.stl
 ├── couvercle_boitier.stl
+├── Electrical organisation.png
 └── README.md
 ```
 
 * `Approximator.cpp` → Complete Arduino program.
 * `boite_approximator.stl` → 3D model of the calculator case.
 * `couvercle_boitier.stl` → 3D model of the case cover.
+* `Electrical organisation.png` → electrical scheme of the project
 * `README.md` → Project documentation.
 
 The main objective was to combine programming, electronics and creativity to create an interactive imaginary calculator.
