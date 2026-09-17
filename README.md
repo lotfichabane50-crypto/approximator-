@@ -1,6 +1,5 @@
 # The one and only Approximator
-# Space Calculator
-
+## Coded by Lotfi Chabane, Pierre Paquet-Deom, Arthur Prost and Luna Dal Molin
 ## Project Overview
 
 This project is a short group project based on an imaginary calculator made with space materials.
