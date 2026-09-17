@@ -1,4 +1,4 @@
-# approximator
+# The one and only Approximator
 # Space Calculator
 
 ## Project Overview
